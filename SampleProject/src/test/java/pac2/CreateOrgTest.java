@@ -15,6 +15,12 @@ public class CreateOrgTest {
 		System.out.println("hi");
 	}
 	
+	public void deleteOrgTest(){
+		System.out.println("execute modifyOrgTest");
+		System.out.println("hi");
+	}
+	
+	
 }
 
 
