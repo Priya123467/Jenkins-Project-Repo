@@ -14,10 +14,10 @@ public class CreateOrgTest {
 		System.out.println("execute modifyOrgTest");
 		System.out.println("hi");
 	}
-	
+	@Test
 	public void deleteOrgTest(){
 		System.out.println("execute modifyOrgTest");
-		System.out.println("hi");
+		System.out.println("hello");
 	}
 	
 	
